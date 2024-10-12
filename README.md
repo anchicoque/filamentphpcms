@@ -16,3 +16,5 @@ DB_PASSWORD=tu_contraseña
 php artisan migrate
 
 php artisan make:filament-user
+
+npm install && npm run dev
